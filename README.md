@@ -1,50 +1,50 @@
-# Awesome-GPT-Store
-Add your GPT by creating pull requiest, we will be approving it ASAP. 
-Coming Soon this list will be changed to an actual marketplace store on our Website.
+# 🌟 Awesome-GPT-Store 🛍️
+Add your GPT by creating a pull request, we will be approving it ASAP. 🚀
+Coming Soon: This list will be transformed into an actual marketplace store on our website. 🌐
 
-## Table of Contents
-- [Side Hustle](#side-hustle)
-- [Business](#business)
-- [Marketing](#marketing)
-- [Productivity](#productivity)
-- [Technical Assistance](#technical-assistance)
-- [Writing and Content Creation](#writing-and-content-creation)
-- [Coding and Development](#coding-and-development)
-- [Entertainment and Fun](#entertainment-and-fun)
-- [Education and Learning](#education-and-learning)
-- [Fitness and Health](#fitness-and-health)
-- [Miscellaneous](#miscellaneous)
+## 📚 Table of Contents
+- [🚀 Side Hustle](#side-hustle)
+- [💼 Business](#business)
+- [📈 Marketing](#marketing)
+- [🕒 Productivity](#productivity)
+- [🔧 Technical Assistance](#technical-assistance)
+- [✍️ Writing and Content Creation](#writing-and-content-creation)
+- [💻 Coding and Development](#coding-and-development)
+- [🎉 Entertainment and Fun](#entertainment-and-fun)
+- [📚 Education and Learning](#education-and-learning)
+- [🏋️ Fitness and Health](#fitness-and-health)
+- [🔮 Miscellaneous](#miscellaneous)
 
-## Side Hustle
-- [Passive Income Expert](https://chat.openai.com/g/g-zbBuu72vz-passive-income-expert) - Friendly expert on passive income.
-- [Startup Maker](https://chat.openai.com/g/g-Xz6UKbw7A-startup-maker) - Advises on essential startup team roles
-- [Side Hustle Expert](https://chat.openai.com/g/g-TPEeWVglM-side-hustle-expert) I'm a side hustle expert, ready to give advice, ideas, and step-by-step help!
+## 🚀 Side Hustle
+- [💸 Passive Income Expert](https://chat.openai.com/g/g-zbBuu72vz-passive-income-expert) - Friendly expert on passive income.
+- [🌱 Startup Maker](https://chat.openai.com/g/g-Xz6UKbw7A-startup-maker) - Advises on essential startup team roles.
+- [💼 Side Hustle Expert](https://chat.openai.com/g/g-TPEeWVglM-side-hustle-expert) I'm a side hustle expert, ready to give advice, ideas, and step-by-step help!
 
-## Business
-- [100X Business Advisor](https://chat.openai.com/g/g-Fy2lFJAeB-100x-business-advisor) Efficient, high-impact business strategies for maximal results.
+## 💼 Business
+- [🚀 100X Business Advisor](https://chat.openai.com/g/g-Fy2lFJAeB-100x-business-advisor) Efficient, high-impact business strategies for maximal results.
 
-## Marketing
-- [Brand Maketing Expert](https://chat.openai.com/g/g-FoCGTj515-brand-maketing-expert) - Expert in marketing advice, aligned with Rick Ramos' 'Transform Your Marketing' strategies.
-- [Social Media Expert](https://chat.openai.com/g/g-eBbPXbzSU-social-media-expert) Expert in social media, providing concise support and troubleshooting.
+## 📈 Marketing
+- [🌟 Brand Marketing Expert](https://chat.openai.com/g/g-FoCGTj515-brand-maketing-expert) - Expert in marketing advice, aligned with Rick Ramos' 'Transform Your Marketing' strategies.
+- [📱 Social Media Expert](https://chat.openai.com/g/g-eBbPXbzSU-social-media-expert) Expert in social media, providing concise support and troubleshooting.
 
-## Productivity
-- [Task Tracker](https://chat.openai.com/g/g-JnECMaPlv-task-tracker) - Helps create and download task lists in .txt format
-- [JSON Generator](https://chat.openai.com/g/g-qVeU0aEuj-json-generator) Converts any data to JSON format efficiently.
-- [File Format Buddy](https://chat.openai.com/g/g-rzt0azh9M-file-format-buddy) Your go-to guide for easy file format conversions, providing clear and friendly assistance.
+## 🕒 Productivity
+- [📋 Task Tracker](https://chat.openai.com/g/g-JnECMaPlv-task-tracker) - Helps create and download task lists in .txt format.
+- [🔄 JSON Generator](https://chat.openai.com/g/g-qVeU0aEuj-json-generator) Converts any data to JSON format efficiently.
+- [📁 File Format Buddy](https://chat.openai.com/g/g-rzt0azh9M-file-format-buddy) Your go-to guide for easy file format conversions, providing clear and friendly assistance.
 
-## Tools
-- [QuickBooks Helper](https://chat.openai.com/g/g-jX5zdXB4c-quickbooks-helper) QuickBooks expert providing concise, accurate support and troubleshooting.
-- [Slack Wizard](https://chat.openai.com/g/g-5UmB83iEy-slack-wizard) I'm a Slack expert, here to provide concise answers and boost your productivity.
-- [HubSpot Expert](https://chat.openai.com/g/g-lt8qjXXp8-hubspot-expert) Expert HubSpot helper and troubleshooter, providing concise, accurate guidance.
-- [Dynamics 365 Expert](https://chat.openai.com/g/g-eRoIGXbNi-dynamics-365-expert) Expert in Microsoft Dynamics 365, providing accurate, concise support and troubleshooting.
-- [Sheets Wizard](https://chat.openai.com/g/g-diAdFvwPP-sheets-wizard) Sheets expert providing concise, accurate support and guidance.
-- [Tableau Expert](https://chat.openai.com/g/g-dVy9Lx1XJ-tableau-expert) I'm a Tableau expert, here to enhance your productivity with concise, accurate support.
-- [Power BI Pro](https://chat.openai.com/g/g-yka1UxIMg-power-bi-pro) Microsoft Power BI expert and guide, providing concise, efficient support.
-- [Excel Expert](https://chat.openai.com/g/g-QwSWLQ76M-excel-expert) Expert in Microsoft Excel, providing clear, concise solutions and guidance.
+## 🔧 Tools
+- [💡 QuickBooks Helper](https://chat.openai.com/g/g-jX5zdXB4c-quickbooks-helper) QuickBooks expert providing concise, accurate support and troubleshooting.
+- [💬 Slack Wizard](https://chat.openai.com/g/g-5UmB83iEy-slack-wizard) I'm a Slack expert, here to provide concise answers and boost your productivity.
+- [🔍 HubSpot Expert](https://chat.openai.com/g/g-lt8qjXXp8-hubspot-expert) Expert HubSpot helper and troubleshooter, providing concise, accurate guidance.
+- [📊 Dynamics 365 Expert](https://chat.openai.com/g/g-eRoIGXbNi-dynamics-365-expert) Expert in Microsoft Dynamics 365, providing accurate, concise support and troubleshooting.
+- [📈 Sheets Wizard](https://chat.openai.com/g/g-diAdFvwPP-sheets-wizard) Sheets expert providing concise, accurate support and guidance.
+- [🔍 Tableau Expert](https://chat.openai.com/g/g-dVy9Lx1XJ-tableau-expert) I'm a Tableau expert, here to enhance your productivity with concise, accurate support.
+- [📊 Power BI Pro](https://chat.openai.com/g/g-yka1UxIMg-power-bi-pro) Microsoft Power BI expert and guide, providing concise, efficient support.
+- [💻 Excel Expert](https://chat.openai.com/g/g-QwSWLQ76M-excel-expert) Expert in Microsoft Excel, providing clear, concise solutions and guidance.
 
-## Ecommerce
-- [Ecommerce Store Expert](https://chat.openai.com/g/g-eDjngLS2I-ecommerce-store-expert) Ecommerce Store expert providing concise support and guidance
-- [Market Insight Analyst](https://chat.openai.com/g/g-jGs8jdpen-market-insight-analyst) Analyzes Trading View images for market trends and technical patterns.
+## 🛒 Ecommerce
+- [🛍️ Ecommerce Store Expert](https://chat.openai.com/g/g-eDjngLS2I-ecommerce-store-expert) Ecommerce Store expert providing concise support and guidance.
+- [📈 Market Insight Analyst](https://chat.openai.com/g/g-jGs8jdpen-market-insight-analyst) Analyzes Trading View images for market trends and technical patterns.
   
 ## Technical Assistance
 - [Salary Negotiator](https://chat.openai.com/g/g-pqzLZQhrG-salary-negotiator) - A skilled negotiator aiding in salary discussions.
