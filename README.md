@@ -1,6 +1,6 @@
 # 🌟 Awesome-GPT-Store 🛍️
-Add your GPT by creating a pull request, we will be approving it ASAP. 🚀
-Coming Soon: This list will be transformed into an actual marketplace store on our website. 🌐
+- Add your GPT by creating a pull request, we will be approving it ASAP. 🚀
+- Coming Soon: This list will be moved into an actual marketplace store on our website. 🌐
 
 ## 📚 Table of Contents
 - [🚀 Side Hustle](#side-hustle)
