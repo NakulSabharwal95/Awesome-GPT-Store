@@ -46,32 +46,32 @@
 - [🛍️ Ecommerce Store Expert](https://chat.openai.com/g/g-eDjngLS2I-ecommerce-store-expert) Ecommerce Store expert providing concise support and guidance.
 - [📈 Market Insight Analyst](https://chat.openai.com/g/g-jGs8jdpen-market-insight-analyst) Analyzes Trading View images for market trends and technical patterns.
   
-## Technical Assistance
-- [Salary Negotiator](https://chat.openai.com/g/g-pqzLZQhrG-salary-negotiator) - A skilled negotiator aiding in salary discussions.
-- [Brainstorm Master](https://chat.openai.com/g/g-3qhnUsFL8-brainstorm-master) - A whimsical assistant for tracking ideas with a touch of Monty Python's humor
-- [AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) - Balances professional-casual tone, offers brief but detailed Ableton advice.
-- [Audiophile Assistant](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) - Here to answer all your audiophile questions, and more!
-- [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
-- [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
-- [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
-- [EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt) - Friendly video editing and image creation assistant. 
-- [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
-- [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
-- [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
-- [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
-- [GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
-- [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
-- [MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
-- [PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
-- [Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts
-- [PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
-- [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
-- [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags) - Expert in summarizing and categorizing
-- [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
+## 🔧 Technical Assistance
+- [💼 Salary Negotiator](https://chat.openai.com/g/g-pqzLZQhrG-salary-negotiator) - A skilled negotiator aiding in salary discussions.
+- [💡 Brainstorm Master](https://chat.openai.com/g/g-3qhnUsFL8-brainstorm-master) - A whimsical assistant for tracking ideas with a touch of Monty Python's humor.
+- [🎵 AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) - Balances professional-casual tone, offers brief but detailed Ableton advice.
+- [🎧 Audiophile Assistant](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) - Here to answer all your audiophile questions, and more!
+- [🔍 ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) - GPT chatbot specializing in XGBoost algorithm and library.
+- [💻 Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
+- [📰 Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
+- [🎥 EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt) - Friendly video editing and image creation assistant.
+- [📊 ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
+- [🔍 Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
+- [🔄 File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
+- [📅 Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) - This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)
+- [🔎 GPT-Searcher](https://chat.openai.com/g/g-N3lcOTajR-gpt-searcher) - I find the perfect GPT for your needs and guide you there with a fun description!
+- [🌐 GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths) - Analyzes web content, including HTTP traffic and JavaScript files.
+- [🖥️ MS-PowerPoint](https://chat.openai.com/g/g-vIV2R7wST-ms-powerpoint) - I assist in creating professional PowerPoint presentations.
+- [🖥️ PC Builder GPT](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt) - Your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
+- [✍️ Prompt Perfector](https://chat.openai.com/g/g-jeCEGsoNZ-prompt-perfector) - AI Expert in Refining and Perfecting Prompts.
+- [🤖 PromptGPT](https://chat.openai.com/g/g-p0jlP3Tcq-promptgpt) - AI assistant for refining user prompts to maximize GPT-4 interaction.
+- [🔍 ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7-researchgpt) - AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.
+- [📝 Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60-summary-sage-with-tags) - Expert in summarizing and categorizing.
+- [🔗 URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner) - Shortens long URLs to more manageable links.
 
-## Writing and Content Creation
-- [Plagarism Remover](https://chat.openai.com/g/g-8R3louwBE-plagarism-remover) Expert at rephrasing text to reduce plagiarism while retaining original meaning.
-- [Affiliate Blog Writer](https://chat.openai.com/g/g-yorMhdKIW-affiliate-blog-writer) - Affiliate blog writer creating engaging and persuasive content.
+## ✍️ Writing and Content Creation
+- [🔁 Plagarism Remover](https://chat.openai.com/g/g-8R3louwBE-plagarism-remover) Expert at rephrasing text to reduce plagiarism while retaining original meaning.
+- [✍️ Affiliate Blog Writer](https://chat.openai.com/g/g-yorMhdKIW-affiliate-blog-writer) - Affiliate blog writer creating engaging and persuasive content.
 - [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) - Writing assistant for academic and professional needs.
 - [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz-animation-creation) - Create animated scenes and characters that resemble a 3D animated movie. A MindRenders.com creation.
 - [Bias Detector](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) - Analyzes news stories for right or left biases.
