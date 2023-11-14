@@ -1,3 +1,6 @@
+<a href="https://www.producthunt.com/posts/awesome-gpt-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;gpt&#0045;store" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=425231&theme=light" alt="Awesome&#0045;GPT&#0045;Store - Github&#0032;Repository&#0032;of&#0032;curated&#0032;GPTs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+
 # 🌟 Awesome-GPT-Store 🛍️
 - Add your GPT by creating a pull request, we will be approving it ASAP. 🚀
 - Coming Soon: This list will be moved into an actual marketplace store on our website. 🌐
